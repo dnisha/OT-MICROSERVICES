@@ -1,0 +1,7 @@
+mysql-connector-python
+pyyaml
+elastic-apm[flask]
+flask
+cryptography
+pytest
+psutil
